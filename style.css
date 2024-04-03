@@ -5,13 +5,21 @@
 }
 
 .a {
-  background-color: aqua;
-  background-image: url("1.jpg");
+  height: 800px;
+  width: 100vw;
+  background-image: url("project1.png");
+  background-size: cover;
 }
 
 .b {
-  background-color: violet;
+  height: 800px;
+  width: 100vw;
+  background-image: url("project2.png");
+  background-size: cover;
 }
 .c {
-  background-color: tomato;
+  height: 800px;
+  width: 100vw;
+  background-image: url("project3.png");
+  background-size: cover;
 }
